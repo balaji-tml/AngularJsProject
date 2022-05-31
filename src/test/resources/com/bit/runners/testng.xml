@@ -1,0 +1,9 @@
+<suite name="ServiceNow Test Suite">
+	<test name="Login Test">
+		<classes>
+			<class name="com.bit.testcases.LoginTest" />
+		</classes>
+
+	</test>
+
+</suite>
